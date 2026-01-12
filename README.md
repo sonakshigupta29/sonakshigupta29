@@ -1,5 +1,5 @@
 <h1 align="center">This is Sonakshiii👋</h1>
-<h3 align="center">Learning by Building..</h3>
+<h3 align="center">Learning by Building</h3>
 
 
 ### 🌱 Currently Learning
@@ -11,7 +11,8 @@
 ### 🔭 Working On
 - Strengthening machine learning foundations  
 - Improving problem-solving skills  
-- Building AIML-based projects  
+- Building AIML-based projects
+- Exploring organizations aligned with Machine-Learning
 
 
 ### 📫 Connect with Me
