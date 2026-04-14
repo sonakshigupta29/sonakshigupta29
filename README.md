@@ -19,4 +19,4 @@
 ### 📫 Connect with Me
 - 📧 Email: **sonakshiii2910@gmail.com**  
 - 💻 GitHub: [sonakshigupta29](https://github.com/sonakshigupta29)
-- - 🔗 LinkedIn: [sonakshigupta29](https://www.linkedin.com/in/sonakshigupta29)
+- 🔗 LinkedIn: [Sonakshi Gupta](https://www.linkedin.com/in/sonakshigupta29) 
