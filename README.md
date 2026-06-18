@@ -32,6 +32,8 @@ Currently focusing on:
 - Open Source Contributions
 - AI Research, Papers, and Real-World Applications
 
+*I enjoy learning by building and am especially drawn to the research-oriented side of AI, where curiosity, experimentation, and continuous learning drive innovation.*
+
 
 ## Tech Stack
 
