@@ -9,7 +9,7 @@ Computer Science (AI & ML) Undergrad • Open Source Contributor • Research-Dr
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sonakshigupta29">
+  <a href="https://www.linkedin.com/in/sonakshigupta29">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sonakshiii2910@gmail.com">
