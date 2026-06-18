@@ -1,10 +1,24 @@
 <h1 align="center">Hi, I'm Sonakshii </h1>
 
 <p align="center">
-Computer Science (AI & ML) Undergrad • Open Source Contributor • Research-Driven Learner • Exploring AI Through Projects & Research
+Computer Science (AI & ML) Undergrad • Open Source Contributor • Research-Driven Learner
 </p>
 
----
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnl3djZoY3hmN2VnbzR1YWJtd3VoNXZsZ2NzN2tzbjVsNW8yb3c4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="200">
+</p>
+
+<p align="center">
+  <a href="LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ## About Me
 
